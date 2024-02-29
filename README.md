@@ -1,4 +1,4 @@
-![header-igor-projetos](./assets/src/img/github-projetcs-header.jpg)
+![header-igor-projetos](https://github.com/igor-rl/assets/blob/main/img/github-projetcs-header.jpg)
 
 # FullCycle Projeto Code Flix
 
